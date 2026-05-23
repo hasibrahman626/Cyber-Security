@@ -1,10 +1,10 @@
 # Labtainers Snort Lab — Assignment Report
 
-**Student:** Hasib Rahman
-**Email:** a57540@alunos.ipb.pt
-**Lab:** Snort – Intrusion Detection (NPS Labtainers)
-**Due:** 27 May 2026
-**Framework:** Labtainers (Naval Postgraduate School)
+Student: Hasib Rahman
+Email: a57540@alunos.ipb.pt
+Lab: Snort – Intrusion Detection (NPS Labtainers)
+Due: 27 May 2026
+Framework: Labtainers (Naval Postgraduate School)
 
 ---
 
